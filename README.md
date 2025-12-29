@@ -1,4 +1,4 @@
-### Kafka Event Streaming Pipeline (Docker + Python)
+# Kafka Event Streaming Pipeline (Docker + Python)
 ## Description
 A beginner-friendly Kafka setup using Docker, Confluent Kafka (Python client), and a simple producer–consumer example.
 
